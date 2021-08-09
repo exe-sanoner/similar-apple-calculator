@@ -1,3 +1,8 @@
-# similar-apple-calculator
-this is an example for the intro to web dev v2, by Brian Holt (Front End Masters)
+# Similar-apple-calculator
+Here is an example of the Apple calculator 📱
 
+[Please click here][site] to enjoy it!!
+
+Thank you for visiting! 🐥
+
+[site]: 
