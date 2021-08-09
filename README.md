@@ -5,4 +5,4 @@ Here is an example of the Apple calculator 📱
 
 Thank you for visiting! 🐥
 
-[site]: 
+[site]: https://web-calculator-ios.vercel.app/
